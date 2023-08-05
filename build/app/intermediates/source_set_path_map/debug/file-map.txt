@@ -1,0 +1,18 @@
+com.sadil.weather.weather_app-debug-0 C:\Binary Numbers\weather_app\android\app\src\debug\res
+com.sadil.weather.weather_app-main-1 C:\Binary Numbers\weather_app\android\app\src\main\res
+com.sadil.weather.weather_app-pngs-2 C:\Binary Numbers\weather_app\build\app\generated\res\pngs\debug
+com.sadil.weather.weather_app-resValues-3 C:\Binary Numbers\weather_app\build\app\generated\res\resValues\debug
+com.sadil.weather.weather_app-rs-4 C:\Binary Numbers\weather_app\build\app\generated\res\rs\debug
+com.sadil.weather.weather_app-mergeDebugResources-5 C:\Binary Numbers\weather_app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.sadil.weather.weather_app-mergeDebugResources-6 C:\Binary Numbers\weather_app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.sadil.weather.weather_app-merged_res-7 C:\Binary Numbers\weather_app\build\app\intermediates\merged_res\debug
+com.sadil.weather.weather_app-packaged_res-8 C:\Binary Numbers\weather_app\build\connectivity_plus\intermediates\packaged_res\debug
+com.sadil.weather.weather_app-packaged_res-9 C:\Binary Numbers\weather_app\build\geocoding_android\intermediates\packaged_res\debug
+com.sadil.weather.weather_app-packaged_res-10 C:\Binary Numbers\weather_app\build\geolocator_android\intermediates\packaged_res\debug
+com.sadil.weather.weather_app-jetified-window-1.0.0-beta04-11 C:\Users\sadil\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.sadil.weather.weather_app-jetified-play-services-basement-18.1.0-12 C:\Users\sadil\.gradle\caches\transforms-3\58aa1384bde170d075503b845cfcf44c\transformed\jetified-play-services-basement-18.1.0\res
+com.sadil.weather.weather_app-jetified-play-services-base-18.1.0-13 C:\Users\sadil\.gradle\caches\transforms-3\781e5567158e59d38ee2b89930f9808b\transformed\jetified-play-services-base-18.1.0\res
+com.sadil.weather.weather_app-jetified-annotation-experimental-1.3.0-14 C:\Users\sadil\.gradle\caches\transforms-3\937d6edc8055f6701a18eeac1a67afe6\transformed\jetified-annotation-experimental-1.3.0\res
+com.sadil.weather.weather_app-lifecycle-runtime-2.3.1-15 C:\Users\sadil\.gradle\caches\transforms-3\9a249567dcb8025899915ed9a2426636\transformed\lifecycle-runtime-2.3.1\res
+com.sadil.weather.weather_app-jetified-window-java-1.0.0-beta04-16 C:\Users\sadil\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.sadil.weather.weather_app-core-1.9.0-17 C:\Users\sadil\.gradle\caches\transforms-3\c2aff38445ebad8ddeaa989ecf50f56e\transformed\core-1.9.0\res
